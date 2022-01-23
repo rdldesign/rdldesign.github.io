@@ -1,2 +1,2 @@
-# rdldesign.github.io
+# Richard Lewis
 Personal developer website 
