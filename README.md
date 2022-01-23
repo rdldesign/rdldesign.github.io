@@ -7,4 +7,4 @@ I find it really rewarding investigating new technolgies; at the moment I’m lo
 
 Key technologies
 
-Microsoft Power Platform (with a focus on PowerBI and Power Automate), Python, HTML, CSS, Postman, Alexa
+Microsoft Power Platform (with a focus on PowerBI and Power Automate), Python, HTML, CSS, Postman, Alexa, Node.js
